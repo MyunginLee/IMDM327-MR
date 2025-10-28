@@ -1,3 +1,7 @@
+# IMDM327 - Mixed Reality Template
+This tutorial is created based on MR Utility Kit (MRUK) and its sample projects but modified for the recent stable version of Unity (6000.2.6f2).
+Assets/327 has the course resources.
+--------------------------
 # Unity MRUK Sample
 
 This sample project will help you navigate and understand the MR Utility Kit APIs through a collection of samples that. Feel free to delve into these APIs, try them out, and discover creative ways to apply them in your projects.
